@@ -4,7 +4,7 @@ This github repository will walk you through setting up your Git and GitHub acco
 
 ---
 
-## Checklist .. :)
+## Checklist .. 
 
 - [x] View this README .... 
 - [x] Create a GitHub Account  
